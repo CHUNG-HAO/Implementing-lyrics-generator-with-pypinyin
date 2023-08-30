@@ -5,7 +5,7 @@ venv\Script\active
 ```
 運行
 ```
-python3 test.py
+python3 __main__.py
 ```
 
 # 作品介紹
