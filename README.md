@@ -1,4 +1,13 @@
 #  Implementing lyrics generator with pypinyin
+激活虛擬環境
+```
+venv\Script\active
+```
+運行
+```
+python3 test.py
+```
+
 # 作品介紹
 https://github.com/chris911024/Implementing-lyrics-generator-with-pypinyin/blob/main/以Pypinyin實作歌詞產生器.pdf
 # GUI
