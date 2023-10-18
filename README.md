@@ -1,5 +1,5 @@
 #  Implementing lyrics generator with pypinyin
-激活虛擬環境
+虛擬環境
 ```
 venv\Script\active
 ```
