@@ -1,9 +1,15 @@
 #  Implementing lyrics generator with pypinyin
-虛擬環境
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/chris911024/Implementing-lyrics-generator-with-pypinyin?style=flat&label=Stars)](https://github.com/chris911024/Implementing-lyrics-generator-with-pypinyin?style/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/chris911024/Implementing-lyrics-generator-with-pypinyin?style?style=flat&label=Forks)](https://github.com/chris911024/Implementing-lyrics-generator-with-pypinyin?style/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/chris911024/Implementing-lyrics-generator-with-pypinyin?style?style=flat&label=Issues)](https://github.com/chris911024/Implementing-lyrics-generator-with-pypinyin?style/issues)
+
+> 虛擬環境
 ```
 venv\Script\active
 ```
-運行
+> 運行
 ```
 python3 __main__.py
 ```
